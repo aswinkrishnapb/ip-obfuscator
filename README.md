@@ -1,2 +1,2 @@
 # ip-obfuscator
-A simple python based ipv4 address obfuscator.  
+A simple obfuscation tool based ob shell script used for ipv4 address obfuscation.  
