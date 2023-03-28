@@ -15,4 +15,4 @@ All of that is simply done with obfuscating ip to many forms.
 ```
 
 ## Screenshot
-![alt img](Screenshot1.png)
+![alt img](Screenshot.png)
